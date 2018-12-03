@@ -7,8 +7,6 @@
 1. `npm uninstall semantic-ui-css semantic-ui-react` 실행
 2. `/src/index.js`와 `/.storybook/config.js`에서 `semantic-ui-css` import 구문 삭제
 
-## 저장소 복사하기
-
 **Github의 fork 기능으로는 계정 당 저장소 하나밖에 복사하지 못합니다.** Fork 기능을 사용하지 않고 프로젝트를 복사하려면, 아래의 절차대로 해 주세요.
 
 1. 복사하고 싶은 저장소를 `git clone` 명령을 사용해 내려받는다.
